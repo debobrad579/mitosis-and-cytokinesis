@@ -27,8 +27,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['mitosis-and-cytokinesis.herokuapp.com', '127.0.0.1']
 
-AUTH_USER_MODEL = 'mitosis.User'
-
 
 # Application definition
 
